@@ -1,0 +1,25 @@
+P { text-align: center }
+H2 { text-align: center }
+html {
+  background-image: url(https://pcvector.net/uploads/posts/2018-08/1533326959_low-poly-background-generator-min.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header {
+ display: block; /* Для старых браузеров */
+ height: 405px; /* Высота шапки */
+ background: url(https://pcvector.net/uploads/posts/2018-08/1533326959_low-poly-background-generator-min.png) no-repeat center bottom;
+}
+header {
+ display: block;
+ height: 405px;
+ background: url(images/header-bg.png) repeat-x center bottom;
+}
+
+
+
